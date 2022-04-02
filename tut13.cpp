@@ -44,12 +44,14 @@ int main()
     // do(condition):
     // c++ statements;
     // } while(conditons);
-    // Printing 1 to 40 using loop
+    // Printing 1 to 30 using loop
     int i=1;
     do{
         cout<<i<<endl;
         i++;
     } while(i<=30);
+    
+       
 
     
     return 0;
